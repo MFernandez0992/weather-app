@@ -62,7 +62,7 @@ export default function App(){
           component="h1"
           align="center"
           gutterBottom>
-              Weather
+              Clima
         </Typography>
         <Box
           sx={{display: "grid", gap: 2}}
