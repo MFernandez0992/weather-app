@@ -1,8 +1,10 @@
-# React + Vite
+# WeatherApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descripción
+WeatherApp es una aplicación del clima construida con React, Vite y MaterialUI. La aplicación obtiene los datos del clima de una ciudad específica utilizando la API de WeatherAPI.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Características
+- Consulta el clima actual de cualquier ciudad.
+- Interfaz de usuario intuitiva y atractiva gracias a MaterialUI.
+- Respuestas rápidas gracias al uso de Vite como bundler.
+- Los datos provienen de WeatherAPI
