@@ -8,3 +8,6 @@ WeatherApp es una aplicación del clima construida con React, Vite y MaterialUI.
 - Interfaz de usuario intuitiva y atractiva gracias a MaterialUI.
 - Respuestas rápidas gracias al uso de Vite como bundler.
 - Los datos provienen de WeatherAPI
+
+## Autor
+[Mi perfil de LinkedIn](https://www.linkedin.com/in/matias-fernandez1992/)
